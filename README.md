@@ -1,7 +1,7 @@
 
 ## Hi :wave:
 
- I'm Wahyu Singgih, Mobile Programming, dan Web Programming enthusiast
+ I'm Wahyu Singgih,  I'm a Mobile Programming, dan Web Programming enthusiast
 
 ## 💻 I'am currently learning
 
